@@ -14,10 +14,22 @@
 .. image:: http://www.gnu.org/graphics/lgplv3-88x31.png
         :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
 
+Install
+=======
+::
+   > python3.5 m pip install --user TODO 
+
+Usage
+=====
+
+Run::
+
+    > {{ cookiecutter.package }}
+
+
 Features
 ========
 
 * Feature
-
 * Feature 
 
