@@ -16,7 +16,7 @@ Usage
 Features
 ========
 
-- Basic python CLI project stricture
+- Basic python CLI_ project stricture
 - Versioning by setuptools_scm_ 
 - Tox
 - Travis CI
@@ -24,3 +24,5 @@ Features
 
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
 .. _setuptools_scm: https://pypi.python.org/pypi/setuptools_scm
+.. _CLI: https://docs.python.org/3/library/argparse.html
+

@@ -4,5 +4,6 @@
     "author": "Author Name",
     "user": "Services username",
     "email": "{{ cookiecutter.user }}@gmail.com",
-    "url": "http://github.com/{{ cookiecutter.user }}/{{ cookiecutter.name }}"
+    "url": "http://github.com/{{ cookiecutter.user }}/{{ cookiecutter.name }}",
+    "url_scm": "http://github.com/{{ cookiecutter.user }}/{{ cookiecutter.name }}"
 }

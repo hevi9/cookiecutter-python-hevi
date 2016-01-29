@@ -18,7 +18,7 @@ Install
 =======
 ::
 
-   > python3.5 m pip install --user TODO 
+   > python3.5 -m pip install --user {{ cookiecutter.url_scm }}
 
 Usage
 =====
