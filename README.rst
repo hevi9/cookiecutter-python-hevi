@@ -16,9 +16,9 @@ Usage
 Features
 ========
 
-- Basic python CLI_ project stricture
+- Basic python 3 CLI_ project stricture
 - Versioning by setuptools_scm_ 
-- Tox
+- py.test and tox testing
 - Travis CI
 
 
