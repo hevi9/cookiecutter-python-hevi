@@ -16,7 +16,11 @@ Usage
 Features
 ========
 
-- Bootstrap 3 and Font Awesome 4 with starter templates
+- Basic python CLI project stricture
+- Versioning by setuptools_scm_ 
+- Tox
+- Travis CI
 
 
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
+.. _setuptools_scm: https://pypi.python.org/pypi/setuptools_scm
