@@ -1,5 +1,5 @@
 from setuptools import setup
-from lndirs import NAME
+from {{ cookiecutter.package }} import NAME
 
 
 with open("README.rst") as fo:
@@ -17,8 +17,7 @@ setup(
     use_scm_version=True,
     entry_points={
         "console_scripts": [
-            "{{ cookiecutter.package }}={{ cookiecutter.package }}:main",
+            "{{ cookiecutter.package }}={{ cookiecutter.package }}.cli:main",
         ]
     }
-
 )

@@ -1,5 +1,7 @@
 import argparse
 import os
+import sys
+import logging
 from . import __version__
 
 j = os.path.join
